@@ -250,3 +250,4 @@ D:\Github\MovieRazor\MovieRazor\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.
 D:\Github\MovieRazor\MovieRazor\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Github\MovieRazor\MovieRazor\obj\Debug\net8.0\MovieRazor.csproj.AssemblyReference.cache
 D:\Github\MovieRazor\MovieRazor\obj\Debug\net8.0\MovieRazor.csproj.Up2Date
+D:\Github\MovieRazor\MovieRazor\obj\Debug\net8.0\MovieRazor.sourcelink.json
